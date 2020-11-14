@@ -1,5 +1,5 @@
 # This repo contains all my machine learning projects
 
-1. Regression Projects
+## Regression Projects
 
-* Boston Housing price prediction
+1. Boston Housing price prediction
